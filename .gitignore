@@ -5,3 +5,4 @@ venv/
 __pycache__/
 models/*.npy
 data/dataset.csv        # generated file of noise added to clean commands and commands 
+models/model_fp32.onnx      # dont need the FP32 model in the repo, only the quantized model is needed
