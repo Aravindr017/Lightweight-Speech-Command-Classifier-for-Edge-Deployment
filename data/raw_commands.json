@@ -1,0 +1,17 @@
+{
+  "activate_do_not_disturb": ["activate do not disturb", "turn on do not disturb", "enable do not disturb", "start do not disturb"],
+  "deactivate_do_not_disturb": ["deactivate do not disturb", "turn off do not disturb", "disable do not disturb", "stop do not disturb"],
+  "decline_call": ["decline the call", "reject call", "ignore the call", "don't answer", "decline call"],
+  "pick_up_call": ["pick up the call", "answer the call", "accept call", "pick the call up"],
+  "play_music": ["play the music", "start music", "resume music", "play music"],
+  "pause_music": ["pause the music", "stop music", "pause playback", "pause"],
+  "next_song": ["play the next song", "next track", "skip song", "next", "next song"],
+  "previous_song": ["play the previous song", "previous track", "go back", "previous", "previous song"],
+  "increase_volume": ["increase the volume", "turn up volume", "raise volume", "louder", "increase volume"],
+  "decrease_volume": ["decrease the volume", "turn down volume", "lower volume", "softer", "decrease volume"],
+  "increase_brightness": ["increase brightness", "brighten screen", "make brighter", "raise brightness"],
+  "decrease_brightness": ["decrease brightness", "dim screen", "make dimmer", "lower brightness"],
+  "start_vehicle": ["start the vehicle", "ignition on", "start car", "turn on engine"],
+  "stop_vehicle": ["stop the vehicle", "ignition off", "stop car", "turn off engine"]
+}
+

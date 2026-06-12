@@ -1,0 +1,7 @@
+# Files and directories to ignore in git version control
+
+venv/
+*.pyc
+__pycache__/
+models/*.npy
+data/dataset.csv        # generated file of noise added to clean commands and commands 

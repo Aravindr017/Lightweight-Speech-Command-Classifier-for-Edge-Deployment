@@ -1,0 +1,389 @@
+text,label,split
+turn off engine,stop_vehicle,train
+reject,decline_call,train
+increase the volum,increase_volume,train
+decline call,decline_call,train
+dim screen,decrease_brightness,test
+turn wolume,decrease_volume,train
+play the previous song,previous_song,train
+do not,deactivate_do_not_disturb,train
+pause teh music,pause_music,train
+play the previous song,previous_song,train
+set a timer,oos,val
+enable do not disturb,activate_do_not_disturb,test
+pause,pause_music,train
+dekline de kall,decline_call,train
+lower volume,decrease_volume,train
+stop music,pause_music,train
+enable do not disturb,activate_do_not_disturb,train
+raise brightness,increase_brightness,train
+play the music,play_music,train
+on do disturb,activate_do_not_disturb,train
+okay Google,oos,val
+go back,previous_song,train
+accept call,pick_up_call,train
+increase volume,increase_volume,train
+ignition off,stop_vehicle,val
+pikk de kall up,pick_up_call,train
+next,next_song,val
+make brighter,increase_brightness,val
+accept call,pick_up_call,train
+pick up the call,pick_up_call,val
+lower brightness,decrease_brightness,train
+do not,activate_do_not_disturb,train
+softer,decrease_volume,val
+ignore the call,decline_call,test
+ignore the call,decline_call,train
+louder,increase_volume,train
+disable do not disturb,deactivate_do_not_disturb,train
+play video,oos,val
+resume,play_music,train
+play song,next_song,train
+go back,previous_song,train
+inkrease,increase_volume,train
+play musik,play_music,train
+skip actually song,next_song,train
+deactivate do not disturb,deactivate_do_not_disturb,train
+turn down volume,decrease_volume,val
+turn on engine,start_vehicle,train
+accept call,pick_up_call,test
+brighten screen,increase_brightness,train
+turn wolume,decrease_volume,train
+decrease brightness,decrease_brightness,val
+ignore de kall,decline_call,train
+disable do not disturb,deactivate_do_not_disturb,train
+disable not,deactivate_do_not_disturb,train
+stop music,pause_music,train
+activate do not disturb,activate_do_not_disturb,val
+music,play_music,train
+pikk de kall up,pick_up_call,train
+stop do not disturb,deactivate_do_not_disturb,train
+make,increase_brightness,train
+raise volume,increase_volume,train
+start vehicle,start_vehicle,train
+next track,next_song,val
+stop the vehicle,stop_vehicle,train
+pause playback,pause_music,test
+do disturb,activate_do_not_disturb,train
+reject call,decline_call,train
+previous song,previous_song,val
+call John,oos,val
+go bakk,previous_song,train
+start car,start_vehicle,test
+pick the call up,pick_up_call,train
+pause playback,pause_music,train
+do not,activate_do_not_disturb,train
+turn on do not disturb,activate_do_not_disturb,train
+resume music,play_music,train
+pause,pause_music,train
+turn on engine,start_vehicle,train
+answer the call,pick_up_call,train
+make,decrease_brightness,train
+skip song,next_song,train
+pause,pause_music,train
+make dimmer,decrease_brightness,test
+make dimmer,decrease_brightness,train
+pause the music,pause_music,train
+dimmer,decrease_brightness,train
+brighten skreen,increase_brightness,train
+the next song,next_song,train
+dekrease brightness,decrease_brightness,train
+turn off engine,stop_vehicle,test
+start the vehicle,start_vehicle,train
+previous track,previous_song,val
+accept call,pick_up_call,train
+decrease,decrease_volume,train
+pause the music,pause_music,val
+turn on disturb,activate_do_not_disturb,train
+answer de kall,pick_up_call,train
+previous,previous_song,train
+activate do not disturb,activate_do_not_disturb,train
+activate do not disturb,activate_do_not_disturb,train
+stop,stop_vehicle,train
+navigate to nearest petrol station,oos,test
+decrease volume,decrease_volume,test
+previous track,previous_song,test
+raise volume,increase_volume,train
+enable do not disturb,activate_do_not_disturb,test
+how are you,oos,val
+deactivate do not disturb,deactivate_do_not_disturb,test
+up call,pick_up_call,train
+pick up the call,pick_up_call,train
+what is the weather today,oos,val
+next song,next_song,train
+start the vehicle,start_vehicle,train
+make brighter,increase_brightness,train
+stop music,pause_music,train
+start do not disturb,activate_do_not_disturb,train
+decline call,decline_call,val
+deactivate do not disturb,deactivate_do_not_disturb,train
+open the trunk,oos,test
+turn down volume,decrease_volume,test
+car,stop_vehicle,train
+deactivate do not disturb,deactivate_do_not_disturb,val
+turn off the air conditioning,oos,test
+go bakk,previous_song,train
+louder,increase_volume,train
+start car,start_vehicle,train
+thank you,oos,test
+play the previous song,previous_song,train
+decrease brightness,decrease_brightness,train
+turn on engine,start_vehicle,train
+pause,pause_music,train
+start do not disturb,activate_do_not_disturb,test
+like de wolume,decrease_volume,train
+skip,next_song,train
+play the previous song,previous_song,train
+pick up the call,pick_up_call,val
+disable do not disturb,deactivate_do_not_disturb,train
+turn on do not disturb,activate_do_not_disturb,val
+hello,oos,val
+skip song,next_song,val
+thank you,oos,val
+don't answer,decline_call,train
+stop music,pause_music,train
+previous,previous_song,train
+raise brightness,increase_brightness,val
+activate do not disturb,activate_do_not_disturb,train
+make brighter,increase_brightness,test
+turn engine,stop_vehicle,train
+start do not disturb,activate_do_not_disturb,train
+what is the weather today,oos,test
+pause,pause_music,train
+play music,play_music,train
+softer,decrease_volume,test
+make,decrease_brightness,train
+lower,decrease_brightness,train
+dimmer,decrease_brightness,train
+stop the vehicle,stop_vehicle,test
+raise,increase_volume,train
+play,play_music,train
+turn down volume,decrease_volume,train
+play song,previous_song,train
+raise brightness,increase_brightness,train
+play musik,play_music,train
+pick the call up,pick_up_call,train
+next trakk,next_song,train
+resume music,play_music,train
+previous song,previous_song,train
+ignore the call,decline_call,val
+start music,play_music,train
+play the previous song,previous_song,val
+the call,pick_up_call,train
+do not disturb,deactivate_do_not_disturb,train
+off not disturb,deactivate_do_not_disturb,train
+play de prewious song,previous_song,train
+next,next_song,train
+teh up,pick_up_call,train
+increase volum,increase_volume,train
+set a timer,oos,test
+brighten,increase_brightness,train
+play music,play_music,test
+lower brightness,decrease_brightness,train
+play the next song,next_song,train
+previous,previous_song,train
+off,stop_vehicle,train
+play the music,play_music,train
+previous,previous_song,test
+lower wolume,decrease_volume,train
+go back,previous_song,test
+de wolume,decrease_volume,train
+turn on engine,start_vehicle,train
+navigate to nearest petrol station,oos,val
+turn down wolume,decrease_volume,train
+turn down wolume,decrease_volume,train
+off,stop_vehicle,train
+increase brightness,increase_brightness,train
+brighten screen,increase_brightness,val
+de next song,next_song,train
+do not disturb,deactivate_do_not_disturb,train
+do not,activate_do_not_disturb,train
+ignition off,stop_vehicle,train
+softer,decrease_volume,train
+stop,stop_vehicle,train
+pause,pause_music,train
+raise volume,increase_volume,train
+deactivate do not disturb,deactivate_do_not_disturb,test
+resume music,play_music,val
+pause playback,pause_music,train
+start car,start_vehicle,test
+kar,stop_vehicle,train
+how are you,oos,test
+stop the vehicle,stop_vehicle,train
+make dimmer,decrease_brightness,test
+increase volume,increase_volume,train
+start de wehikle,start_vehicle,train
+song,next_song,train
+go back,previous_song,train
+turn down volume,decrease_volume,train
+volume,decrease_volume,train
+what's the stock price,oos,val
+turn do not,activate_do_not_disturb,train
+raise brightness,increase_brightness,train
+stop,pause_music,train
+dekrease brightness,decrease_brightness,train
+dim,decrease_brightness,train
+turn off do not disturb,deactivate_do_not_disturb,train
+play the next song,next_song,train
+decline call,decline_call,test
+brightness,decrease_brightness,train
+make dimmer,decrease_brightness,train
+start music,play_music,val
+louder,increase_volume,test
+skip song,next_song,train
+call,pick_up_call,train
+pause,pause_music,val
+turn do disturb,deactivate_do_not_disturb,train
+resume,play_music,train
+skip song,next_song,test
+pause de musik,pause_music,train
+lower brightness,decrease_brightness,train
+on engine,start_vehicle,train
+play de next song,next_song,train
+decrease the volume,decrease_volume,train
+enable do not disturb,activate_do_not_disturb,val
+um the call,decline_call,train
+turn on engine,start_vehicle,test
+pikk de kall up,pick_up_call,train
+turn off do not disturb,deactivate_do_not_disturb,val
+play the music,play_music,train
+on,start_vehicle,train
+softer,decrease_volume,train
+pick up the call,pick_up_call,train
+go back,previous_song,train
+do not disturb,activate_do_not_disturb,train
+disable do not disturb,deactivate_do_not_disturb,train
+deactivate do not disturb,deactivate_do_not_disturb,train
+inkrease de wolume,increase_volume,train
+track,previous_song,train
+call John,oos,test
+louder,increase_volume,test
+make,decrease_brightness,train
+play music,play_music,train
+reject call,decline_call,train
+ignition on,start_vehicle,train
+turn off do not disturb,deactivate_do_not_disturb,test
+pause playback,pause_music,val
+increase the volume,increase_volume,train
+reject call,decline_call,train
+pick the call up,pick_up_call,val
+make brighter,increase_brightness,train
+turn on engine,start_vehicle,train
+play the next song,next_song,test
+activate do,activate_do_not_disturb,train
+turn on engine,start_vehicle,train
+make dimmer,decrease_brightness,val
+playback,pause_music,train
+make dimmer um,decrease_brightness,train
+raise volume,increase_volume,test
+inkrease brightness,increase_brightness,train
+volume,increase_volume,train
+musik,play_music,train
+brightness,increase_brightness,train
+pick up the call,pick_up_call,train
+decline call,decline_call,train
+deactivate do not disturb,deactivate_do_not_disturb,train
+ignition,stop_vehicle,train
+brightness,increase_brightness,train
+ignition off,stop_vehicle,val
+turn off do not disturb,deactivate_do_not_disturb,train
+answer the call,pick_up_call,test
+make dimmer,decrease_brightness,train
+de wehikle,stop_vehicle,train
+disable do not disturb,deactivate_do_not_disturb,val
+increase volum,increase_volume,train
+louder,increase_volume,val
+next,next_song,train
+answer the call,pick_up_call,train
+play the next song,next_song,train
+play the nekt song,next_song,train
+start do not disturb,activate_do_not_disturb,train
+pikk up de kall,pick_up_call,train
+enable do not disturb,activate_do_not_disturb,train
+teh previous,previous_song,train
+reject call,decline_call,train
+start the vehicle,start_vehicle,val
+stop the vehicle,stop_vehicle,test
+make,increase_brightness,train
+car,stop_vehicle,train
+decrease the volume,decrease_volume,val
+dim,decrease_brightness,train
+brightness,increase_brightness,train
+make brighter,increase_brightness,train
+don't answer,decline_call,test
+start car,start_vehicle,val
+kar,start_vehicle,train
+open the trunk,oos,val
+start car,start_vehicle,val
+accept call,pick_up_call,test
+stop teh,stop_vehicle,train
+make brighter,increase_brightness,train
+wolume like,increase_volume,train
+ignore the call,decline_call,train
+raise brightness,increase_brightness,train
+lower wolume,decrease_volume,train
+play music,play_music,test
+start car,start_vehicle,train
+pause de musik,pause_music,train
+don't answer,decline_call,train
+start do not disturb,activate_do_not_disturb,train
+decline teh call,decline_call,train
+play the,play_music,train
+brighten screen,increase_brightness,train
+do not disturb,deactivate_do_not_disturb,train
+turn off engine,stop_vehicle,train
+music,play_music,train
+the call,decline_call,train
+turn engine,stop_vehicle,train
+ignition on,start_vehicle,train
+activate do not disturb,activate_do_not_disturb,train
+stop music,pause_music,test
+play,play_music,train
+ignition off,stop_vehicle,train
+raise volume,increase_volume,train
+increase the volume,increase_volume,val
+what's the stock price,oos,test
+next,next_song,train
+start music,play_music,val
+hello,oos,test
+next track,next_song,test
+turn engine,start_vehicle,train
+ignore call,decline_call,train
+reject,decline_call,train
+increase volume,increase_volume,train
+lower,decrease_volume,train
+okay Google,oos,test
+decrease the,decrease_volume,train
+raise volume,increase_volume,train
+ignore de kall,decline_call,train
+decline the,decline_call,train
+increase brightness,increase_brightness,test
+lower brightness,decrease_brightness,train
+the vehicle,start_vehicle,train
+disable disturb,deactivate_do_not_disturb,train
+stop music,pause_music,test
+increase,increase_volume,train
+stop,stop_vehicle,train
+softer,decrease_volume,train
+don't answer,decline_call,val
+brighten screen,increase_brightness,test
+start the vehicle,start_vehicle,train
+play the music,play_music,test
+previous song,previous_song,train
+play the next song,next_song,train
+go back,previous_song,train
+turn off engine,stop_vehicle,val
+play de musik,play_music,train
+turn off the air conditioning,oos,val
+play,play_music,train
+increase volume,increase_volume,val
+increase brightness,increase_brightness,train
+next track,next_song,train
+play video,oos,test
+disable not,deactivate_do_not_disturb,train
+decrease,decrease_volume,train
+pick up the call,pick_up_call,train
+pause playbakk,pause_music,train
+off,stop_vehicle,train
+dim screen,decrease_brightness,val
+pause,pause_music,train
