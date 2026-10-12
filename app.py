@@ -1,7 +1,10 @@
 import streamlit as st
 import sys
-# import os
-sys.path.append("src")      # add the src folder to path so import files eaisly
+from pathlib import Path
+
+# Resolve base directory relative to this script
+BASE_DIR = Path(__file__).resolve().parent
+sys.path.append(str(BASE_DIR / "src"))      # add the src folder to path so import files easily
 from inference import CommandClassifier     # import the classifier class from inference.py
 
 st.set_page_config(page_title="Voice Command Classifier", layout="centered")        # configure browser page
@@ -11,10 +14,10 @@ st.markdown("Enter a voice command text (ASR output). The model will classify it
 @st.cache_resource      # used to cache the loaded model so it doesn't reload on every input change
 def load_classifier():
     return CommandClassifier(
-        onnx_model_path="models/model_quantized.onnx",
-        prototypes_path="models/prototypes.npy",
-        labels_path="models/class_labels.json",
-        threshold_path="models/threshold.json"
+        onnx_model_path=str(BASE_DIR / "models" / "model_quantized.onnx"),
+        prototypes_path=str(BASE_DIR / "models" / "prototypes.npy"),
+        labels_path=str(BASE_DIR / "models" / "class_labels.json"),
+        threshold_path=str(BASE_DIR / "models" / "threshold.json")
     )
 
 classifier = load_classifier()
